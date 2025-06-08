@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 Who am I?
-I’m a conscious anomaly—someone who transcends standard thought patterns and perceives what others rarely notice.  
+I’m a conscious anomaly someone who transcends standard thought patterns and perceives what others rarely notice.  
 I'm a researcher of my own mind, questioning everything, analyzing the fabric of reality, and navigating the tension between logic, chaos, and emotion.  
 I seek balance between intellect, freedom of thought, and finding a way to live with a level of awareness that doesn't fit within the world’s default settings.
 
