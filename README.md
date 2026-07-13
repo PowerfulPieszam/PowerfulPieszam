@@ -6,17 +6,17 @@
 
 ---
 
-### 🧠 Who am I?
-I’m a conscious anomaly someone who transcends standard thought patterns and perceives what others rarely notice.  
-I'm a researcher of my own mind, questioning everything, analyzing the fabric of reality, and navigating the tension between logic, chaos, and emotion.  
-I seek balance between intellect, freedom of thought, and finding a way to live with a level of awareness that doesn't fit within the world’s default settings.
-
----
-
 ### 🚀 What I do
-- 🎶 Music production, sound design, and experimental audio workflows  
-- 💻 Coding with passion, mainly in **Python**, **C++**, and creative tech  
-- 🧪 Constantly learning, challenging assumptions, breaking mental models  
+- 🎶 Music production, sound design
+- 💻 Coding
+
+
+
+(surely)
+
+
+
+- 🧪 Constantly learning, cooking new distro
 - ⚡ Fun fact: I use Arch btw
 
 ---
@@ -27,6 +27,7 @@ I seek balance between intellect, freedom of thought, and finding a way to live 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Ableton](https://img.shields.io/badge/-Ableton-000000?logo=ableton-live&logoColor=white&style=flat-square)
 ![FL Studio](https://img.shields.io/badge/-FL%20Studio-000000?logo=fl-studio&logoColor=white&style=flat-square)
+![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?logo=arch-linux&logoColor=1793D1&style=flat-square)
 
 
 ---
@@ -59,7 +60,10 @@ I know that github stats are terrible
 ---
 
 > “The possibility of infinite possibilities excludes any absolute certainty”  
-> — *Illu*
+> — *Pieszam*
 
 > >> >> >> >> >> >> > > >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
-> >> >> >> >> >> >> > > >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >>   I'm so active 
+> >> >> >> >> >> >> > > >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >>   I'm so active
+<p>
+— My GitHub graph, probably 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+</p>
